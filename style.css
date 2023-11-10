@@ -185,7 +185,7 @@ header {
 /* Add hover effect to grow the image in the home section */
 .home-image img {
     width: 100%;
-    height: auto;
+    height: 100%;
     max-width: 380px;
     display: block;
     margin: 0 auto;

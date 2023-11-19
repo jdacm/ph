@@ -513,6 +513,8 @@ h3{
 
 .portfolio h2 {
     margin-bottom: 4rem;
+    text-align: center;
+    font-size: 40px;
 }
 
 .portfolio-container {

@@ -28,5 +28,3 @@ const typed = new Typed(".typing-text", {
   }
   
   setInterval(rotateRectangle, 2000);
-
-
